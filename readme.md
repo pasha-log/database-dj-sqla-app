@@ -6,3 +6,4 @@
 
 ## Description: 
 
+A simple exercise to practice my SQLAlchemy, WTForms, Flask, and Python. Here anyone can add their own playlist with an image url, name, description, and add songs to it. 
