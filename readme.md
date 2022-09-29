@@ -1,9 +1,9 @@
-## Playlist-app
+# DatabaseDJ Playlist-app
 
-To get this application running, make sure you do the following in the Terminal:
+<img src='screenshot (43).png' alt='' height='350' width='600'>
+<img src='screenshot (44).png' alt='' height='350' width='600'>
+<img src='screenshot (45).png' alt='' height='350' width='600'> 
 
-1. `python3 -m venv venv`
-2. `source venv/bin/activate`
-3. `pip install -r requirements.txt`
-4. `createdb playlist-app`
-5. `flask run`
+## Description: 
+
+A simple exercise to practice my SQLAlchemy, WTForms, Flask, and Python. Here anyone can add their own playlist with an image url, name, description, and add songs to it. 
