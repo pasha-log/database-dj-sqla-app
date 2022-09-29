@@ -1,8 +1,8 @@
 # DatabaseDJ Playlist-app
 
-<img src='screenshots/screenshot (43).png' alt='' height='350' width='600'>
-<img src='screenshots/screenshot (44).png' alt='' height='350' width='600'>
-<img src='screenshots/screenshot (45).png' alt='' height='350' width='600'> 
+<img src='screenshots/Screenshot (43).png' alt='' height='350' width='600'>
+<img src='screenshots/Screenshot (44).png' alt='' height='350' width='600'>
+<img src='screenshots/Screenshot (45).png' alt='' height='350' width='600'> 
 
 ## Description: 
 
